@@ -1,2 +1,3 @@
-n_total,wins,losses,pushes,win_rate_ex_push,avg_edge
-655,351,296,8,0.5425,-0.843
+version https://git-lfs.github.com/spec/v1
+oid sha256:237458270a5b5bb78daf3e98c4958cd40421ff0f46e3610336eba2e04e48e618
+size 81
