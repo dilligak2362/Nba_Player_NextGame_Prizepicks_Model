@@ -1,0 +1,4466 @@
+[
+  {
+    "player": "Devin Booker",
+    "team": "Suns",
+    "stat": "PRA",
+    "line": 37.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Devin Booker",
+    "team": "Suns",
+    "stat": "PA",
+    "line": 32.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Devin Booker",
+    "team": "Suns",
+    "stat": "PR",
+    "line": 29.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Tyler Herro",
+    "team": "Heat",
+    "stat": "PRA",
+    "line": 28.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Bam Adebayo",
+    "team": "Heat",
+    "stat": "PRA",
+    "line": 27.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Norman Powell",
+    "team": "Heat",
+    "stat": "PRA",
+    "line": 26.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Devin Booker",
+    "team": "Suns",
+    "stat": "PTS",
+    "line": 25.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Dillon Brooks",
+    "team": "Suns",
+    "stat": "PRA",
+    "line": 25.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Bam Adebayo",
+    "team": "Heat",
+    "stat": "PR",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Tyler Herro",
+    "team": "Heat",
+    "stat": "PR",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Dillon Brooks",
+    "team": "Suns",
+    "stat": "PR",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Norman Powell",
+    "team": "Heat",
+    "stat": "PR",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Tyler Herro",
+    "team": "Heat",
+    "stat": "PA",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Mark Williams",
+    "team": "Suns",
+    "stat": "PRA",
+    "line": 23.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Norman Powell",
+    "team": "Heat",
+    "stat": "PA",
+    "line": 23.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Andrew Wiggins",
+    "team": "Heat",
+    "stat": "PRA",
+    "line": 21.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Collin Gillespie",
+    "team": "Suns",
+    "stat": "PRA",
+    "line": 21.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Dillon Brooks",
+    "team": "Suns",
+    "stat": "PA",
+    "line": 21.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jaime Jaquez",
+    "team": "Heat",
+    "stat": "PRA",
+    "line": 21.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Mark Williams",
+    "team": "Suns",
+    "stat": "PR",
+    "line": 21.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Norman Powell",
+    "team": "Heat",
+    "stat": "PTS",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Tyler Herro",
+    "team": "Heat",
+    "stat": "PTS",
+    "line": 20.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Dillon Brooks",
+    "team": "Suns",
+    "stat": "PTS",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Grayson Allen",
+    "team": "Suns",
+    "stat": "PRA",
+    "line": 19.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Andrew Wiggins",
+    "team": "Heat",
+    "stat": "PR",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Royce O'Neale",
+    "team": "Suns",
+    "stat": "PRA",
+    "line": 18.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Bam Adebayo",
+    "team": "Heat",
+    "stat": "PA",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jaime Jaquez",
+    "team": "Heat",
+    "stat": "PR",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Andrew Wiggins",
+    "team": "Heat",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Collin Gillespie",
+    "team": "Suns",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Collin Gillespie",
+    "team": "Suns",
+    "stat": "PR",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Davion Mitchell",
+    "team": "Heat",
+    "stat": "PRA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jaime Jaquez",
+    "team": "Heat",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Grayson Allen",
+    "team": "Suns",
+    "stat": "PA",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Grayson Allen",
+    "team": "Suns",
+    "stat": "PR",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jordan Goodwin",
+    "team": "Suns",
+    "stat": "PRA",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Royce O'Neale",
+    "team": "Suns",
+    "stat": "PR",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kel'el Ware",
+    "team": "Heat",
+    "stat": "PR",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Andrew Wiggins",
+    "team": "Heat",
+    "stat": "PTS",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Bam Adebayo",
+    "team": "Heat",
+    "stat": "PTS",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Davion Mitchell",
+    "team": "Heat",
+    "stat": "PA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Mark Williams",
+    "team": "Suns",
+    "stat": "PA",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Grayson Allen",
+    "team": "Suns",
+    "stat": "PTS",
+    "line": 13.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Collin Gillespie",
+    "team": "Suns",
+    "stat": "PTS",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jaime Jaquez",
+    "team": "Heat",
+    "stat": "PTS",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jordan Goodwin",
+    "team": "Suns",
+    "stat": "PR",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Royce O'Neale",
+    "team": "Suns",
+    "stat": "PA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Bam Adebayo",
+    "team": "Heat",
+    "stat": "RA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Mark Williams",
+    "team": "Suns",
+    "stat": "PTS",
+    "line": 12.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Oso Ighodaro",
+    "team": "Suns",
+    "stat": "PRA",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Devin Booker",
+    "team": "Suns",
+    "stat": "RA",
+    "line": 11.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Davion Mitchell",
+    "team": "Heat",
+    "stat": "PR",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Mark Williams",
+    "team": "Suns",
+    "stat": "RA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jordan Goodwin",
+    "team": "Suns",
+    "stat": "PA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Bam Adebayo",
+    "team": "Heat",
+    "stat": "REB",
+    "line": 10.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Royce O'Neale",
+    "team": "Suns",
+    "stat": "PTS",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Davion Mitchell",
+    "team": "Heat",
+    "stat": "RA",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Mark Williams",
+    "team": "Suns",
+    "stat": "REB",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Collin Gillespie",
+    "team": "Suns",
+    "stat": "RA",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jordan Goodwin",
+    "team": "Suns",
+    "stat": "PTS",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Royce O'Neale",
+    "team": "Suns",
+    "stat": "RA",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Tyler Herro",
+    "team": "Heat",
+    "stat": "RA",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Davion Mitchell",
+    "team": "Heat",
+    "stat": "PTS",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jaime Jaquez",
+    "team": "Heat",
+    "stat": "RA",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kel'el Ware",
+    "team": "Heat",
+    "stat": "PTS",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Kel'el Ware",
+    "team": "Heat",
+    "stat": "REB",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Devin Booker",
+    "team": "Suns",
+    "stat": "AST",
+    "line": 7.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jordan Goodwin",
+    "team": "Suns",
+    "stat": "RA",
+    "line": 7.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Andrew Wiggins",
+    "team": "Heat",
+    "stat": "RA",
+    "line": 7.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Davion Mitchell",
+    "team": "Heat",
+    "stat": "AST",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Oso Ighodaro",
+    "team": "Suns",
+    "stat": "PA",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Grayson Allen",
+    "team": "Suns",
+    "stat": "RA",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Norman Powell",
+    "team": "Heat",
+    "stat": "RA",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Oso Ighodaro",
+    "team": "Suns",
+    "stat": "PTS",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Tyler Herro",
+    "team": "Heat",
+    "stat": "REB",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Oso Ighodaro",
+    "team": "Suns",
+    "stat": "REB",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Andrew Wiggins",
+    "team": "Heat",
+    "stat": "REB",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Collin Gillespie",
+    "team": "Suns",
+    "stat": "AST",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jordan Goodwin",
+    "team": "Suns",
+    "stat": "REB",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Collin Gillespie",
+    "team": "Suns",
+    "stat": "REB",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jaime Jaquez",
+    "team": "Heat",
+    "stat": "REB",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Dillon Brooks",
+    "team": "Suns",
+    "stat": "REB",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Royce O'Neale",
+    "team": "Suns",
+    "stat": "AST",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Collin Gillespie",
+    "team": "Suns",
+    "stat": "TO",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Grayson Allen",
+    "team": "Suns",
+    "stat": "TO",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Oso Ighodaro",
+    "team": "Suns",
+    "stat": "AST",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "Thunder",
+    "stat": "PRA",
+    "line": 42.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "Thunder",
+    "stat": "PA",
+    "line": 37.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "Thunder",
+    "stat": "PR",
+    "line": 36.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Victor Wembanyama",
+    "team": "Spurs",
+    "stat": "PRA",
+    "line": 34.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "Thunder",
+    "stat": "PTS",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Victor Wembanyama",
+    "team": "Spurs",
+    "stat": "PR",
+    "line": 31.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Williams",
+    "team": "Thunder",
+    "stat": "PRA",
+    "line": 28.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Aaron Fox",
+    "team": "Spurs",
+    "stat": "PRA",
+    "line": 27.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Chet Holmgren",
+    "team": "Thunder",
+    "stat": "PRA",
+    "line": 27.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Stephon Castle",
+    "team": "Spurs",
+    "stat": "PRA",
+    "line": 26.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Chet Holmgren",
+    "team": "Thunder",
+    "stat": "PR",
+    "line": 26.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Victor Wembanyama",
+    "team": "Spurs",
+    "stat": "PA",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Aaron Fox",
+    "team": "Spurs",
+    "stat": "PA",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Williams",
+    "team": "Thunder",
+    "stat": "PA",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Williams",
+    "team": "Thunder",
+    "stat": "PR",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Aaron Fox",
+    "team": "Spurs",
+    "stat": "PR",
+    "line": 22.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Stephon Castle",
+    "team": "Spurs",
+    "stat": "PA",
+    "line": 22.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Victor Wembanyama",
+    "team": "Spurs",
+    "stat": "PTS",
+    "line": 21.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Julian Champagnie",
+    "team": "Spurs",
+    "stat": "PRA",
+    "line": 21.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Stephon Castle",
+    "team": "Spurs",
+    "stat": "PR",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Keldon Johnson",
+    "team": "Spurs",
+    "stat": "PRA",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julian Champagnie",
+    "team": "Spurs",
+    "stat": "PR",
+    "line": 19.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Keldon Johnson",
+    "team": "Spurs",
+    "stat": "PR",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ajay Mitchell",
+    "team": "Thunder",
+    "stat": "PRA",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Chet Holmgren",
+    "team": "Thunder",
+    "stat": "PA",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Aaron Fox",
+    "team": "Spurs",
+    "stat": "PTS",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Williams",
+    "team": "Thunder",
+    "stat": "PTS",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Chet Holmgren",
+    "team": "Thunder",
+    "stat": "PTS",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Harrison Barnes",
+    "team": "Spurs",
+    "stat": "PRA",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Stephon Castle",
+    "team": "Spurs",
+    "stat": "PTS",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Ajay Mitchell",
+    "team": "Thunder",
+    "stat": "PA",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ajay Mitchell",
+    "team": "Thunder",
+    "stat": "PR",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Harrison Barnes",
+    "team": "Spurs",
+    "stat": "PR",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julian Champagnie",
+    "team": "Spurs",
+    "stat": "PA",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Dylan Harper",
+    "team": "Spurs",
+    "stat": "PRA",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Keldon Johnson",
+    "team": "Spurs",
+    "stat": "PTS",
+    "line": 13.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Harrison Barnes",
+    "team": "Spurs",
+    "stat": "PA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Keldon Johnson",
+    "team": "Spurs",
+    "stat": "PA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julian Champagnie",
+    "team": "Spurs",
+    "stat": "PTS",
+    "line": 12.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Luke Kornet",
+    "team": "Spurs",
+    "stat": "PR",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ajay Mitchell",
+    "team": "Thunder",
+    "stat": "PTS",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Alex Caruso",
+    "team": "Thunder",
+    "stat": "PRA",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Williams",
+    "team": "Thunder",
+    "stat": "RA",
+    "line": 11.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "Thunder",
+    "stat": "RA",
+    "line": 11.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Harrison Barnes",
+    "team": "Spurs",
+    "stat": "PTS",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Stephon Castle",
+    "team": "Spurs",
+    "stat": "RA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Cason Wallace",
+    "team": "Thunder",
+    "stat": "PRA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Isaiah Joe",
+    "team": "Thunder",
+    "stat": "PRA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Alex Caruso",
+    "team": "Thunder",
+    "stat": "PR",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Aaron Fox",
+    "team": "Spurs",
+    "stat": "RA",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Chet Holmgren",
+    "team": "Thunder",
+    "stat": "REB",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Cason Wallace",
+    "team": "Thunder",
+    "stat": "PR",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julian Champagnie",
+    "team": "Spurs",
+    "stat": "RA",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Isaiah Joe",
+    "team": "Thunder",
+    "stat": "PR",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Alex Caruso",
+    "team": "Thunder",
+    "stat": "PTS",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Cason Wallace",
+    "team": "Thunder",
+    "stat": "PTS",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Dylan Harper",
+    "team": "Spurs",
+    "stat": "PTS",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Cason Wallace",
+    "team": "Thunder",
+    "stat": "PA",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Keldon Johnson",
+    "team": "Spurs",
+    "stat": "RA",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julian Champagnie",
+    "team": "Spurs",
+    "stat": "REB",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Luke Kornet",
+    "team": "Spurs",
+    "stat": "REB",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Keldon Johnson",
+    "team": "Spurs",
+    "stat": "REB",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "Thunder",
+    "stat": "AST",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Stephon Castle",
+    "team": "Spurs",
+    "stat": "AST",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Luke Kornet",
+    "team": "Spurs",
+    "stat": "PTS",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Williams",
+    "team": "Thunder",
+    "stat": "AST",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Dylan Harper",
+    "team": "Spurs",
+    "stat": "RA",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shai Gilgeous-Alexander",
+    "team": "Thunder",
+    "stat": "REB",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "De'Aaron Fox",
+    "team": "Spurs",
+    "stat": "AST",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Stephon Castle",
+    "team": "Spurs",
+    "stat": "REB",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "De'Aaron Fox",
+    "team": "Spurs",
+    "stat": "REB",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Stephon Castle",
+    "team": "Spurs",
+    "stat": "TO",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Ajay Mitchell",
+    "team": "Thunder",
+    "stat": "AST",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Dylan Harper",
+    "team": "Spurs",
+    "stat": "REB",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Chet Holmgren",
+    "team": "Thunder",
+    "stat": "AST",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Luke Kornet",
+    "team": "Spurs",
+    "stat": "AST",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Cason Wallace",
+    "team": "Thunder",
+    "stat": "STL",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Alex Caruso",
+    "team": "Thunder",
+    "stat": "TO",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Cason Wallace",
+    "team": "Thunder",
+    "stat": "TO",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Chet Holmgren",
+    "team": "Thunder",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Keldon Johnson",
+    "team": "Spurs",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Luke Kornet",
+    "team": "Spurs",
+    "stat": "TO",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Giannis Antetokounmpo",
+    "team": "Bucks",
+    "stat": "PRA",
+    "line": 47.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Giannis Antetokounmpo",
+    "team": "Bucks",
+    "stat": "PR",
+    "line": 42.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julius Randle",
+    "team": "Timberwolves",
+    "stat": "PRA",
+    "line": 37.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Giannis Antetokounmpo",
+    "team": "Bucks",
+    "stat": "PA",
+    "line": 36.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Giannis Antetokounmpo",
+    "team": "Bucks",
+    "stat": "PTS",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Julius Randle",
+    "team": "Timberwolves",
+    "stat": "PR",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Porter",
+    "team": "Bucks",
+    "stat": "PRA",
+    "line": 31.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Naz Reid",
+    "team": "Timberwolves",
+    "stat": "PRA",
+    "line": 30.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julius Randle",
+    "team": "Timberwolves",
+    "stat": "PA",
+    "line": 29.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Naz Reid",
+    "team": "Timberwolves",
+    "stat": "PR",
+    "line": 27.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donte DiVincenzo",
+    "team": "Timberwolves",
+    "stat": "PRA",
+    "line": 26.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Porter",
+    "team": "Bucks",
+    "stat": "PA",
+    "line": 25.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jaden McDaniels",
+    "team": "Timberwolves",
+    "stat": "PRA",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ryan Rollins",
+    "team": "Bucks",
+    "stat": "PRA",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julius Randle",
+    "team": "Timberwolves",
+    "stat": "PTS",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Kevin Porter",
+    "team": "Bucks",
+    "stat": "PR",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jaden McDaniels",
+    "team": "Timberwolves",
+    "stat": "PR",
+    "line": 22.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Naz Reid",
+    "team": "Timberwolves",
+    "stat": "PA",
+    "line": 22.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donte DiVincenzo",
+    "team": "Timberwolves",
+    "stat": "PR",
+    "line": 21.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donte DiVincenzo",
+    "team": "Timberwolves",
+    "stat": "PA",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ryan Rollins",
+    "team": "Bucks",
+    "stat": "PA",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ryan Rollins",
+    "team": "Bucks",
+    "stat": "PR",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Naz Reid",
+    "team": "Timberwolves",
+    "stat": "PTS",
+    "line": 19.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jaden McDaniels",
+    "team": "Timberwolves",
+    "stat": "PA",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Porter",
+    "team": "Bucks",
+    "stat": "PTS",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Myles Turner",
+    "team": "Bucks",
+    "stat": "PRA",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donte DiVincenzo",
+    "team": "Timberwolves",
+    "stat": "PTS",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jaden McDaniels",
+    "team": "Timberwolves",
+    "stat": "PTS",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Giannis Antetokounmpo",
+    "team": "Bucks",
+    "stat": "RA",
+    "line": 16.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Myles Turner",
+    "team": "Bucks",
+    "stat": "PR",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "AJ Green",
+    "team": "Bucks",
+    "stat": "PRA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ryan Rollins",
+    "team": "Bucks",
+    "stat": "PTS",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Mike Conley",
+    "team": "Timberwolves",
+    "stat": "PRA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Julius Randle",
+    "team": "Timberwolves",
+    "stat": "RA",
+    "line": 14.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Porter",
+    "team": "Bucks",
+    "stat": "RA",
+    "line": 13.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "AJ Green",
+    "team": "Bucks",
+    "stat": "PR",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Myles Turner",
+    "team": "Bucks",
+    "stat": "PA",
+    "line": 12.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "AJ Green",
+    "team": "Bucks",
+    "stat": "PA",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Mike Conley",
+    "team": "Timberwolves",
+    "stat": "PA",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Giannis Antetokounmpo",
+    "team": "Bucks",
+    "stat": "REB",
+    "line": 11.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Myles Turner",
+    "team": "Bucks",
+    "stat": "PTS",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Ryan Rollins",
+    "team": "Bucks",
+    "stat": "RA",
+    "line": 10.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donte DiVincenzo",
+    "team": "Timberwolves",
+    "stat": "RA",
+    "line": 10.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "AJ Green",
+    "team": "Bucks",
+    "stat": "PTS",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Naz Reid",
+    "team": "Timberwolves",
+    "stat": "REB",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jaden McDaniels",
+    "team": "Timberwolves",
+    "stat": "RA",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Mike Conley",
+    "team": "Timberwolves",
+    "stat": "PTS",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Kevin Porter",
+    "team": "Bucks",
+    "stat": "AST",
+    "line": 7.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Myles Turner",
+    "team": "Bucks",
+    "stat": "RA",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Porter",
+    "team": "Bucks",
+    "stat": "REB",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jaden McDaniels",
+    "team": "Timberwolves",
+    "stat": "REB",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Myles Turner",
+    "team": "Bucks",
+    "stat": "REB",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Ryan Rollins",
+    "team": "Bucks",
+    "stat": "REB",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Ryan Rollins",
+    "team": "Bucks",
+    "stat": "AST",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "AJ Green",
+    "team": "Bucks",
+    "stat": "RA",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donte DiVincenzo",
+    "team": "Timberwolves",
+    "stat": "AST",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Mike Conley",
+    "team": "Timberwolves",
+    "stat": "REB",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jaden McDaniels",
+    "team": "Timberwolves",
+    "stat": "TO",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Alperen Sengun",
+    "team": "Rockets",
+    "stat": "PRA",
+    "line": 37.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Durant",
+    "team": "Rockets",
+    "stat": "PRA",
+    "line": 36.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Amen Thompson",
+    "team": "Rockets",
+    "stat": "PRA",
+    "line": 32.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Alperen Sengun",
+    "team": "Rockets",
+    "stat": "PR",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Durant",
+    "team": "Rockets",
+    "stat": "PA",
+    "line": 30.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Durant",
+    "team": "Rockets",
+    "stat": "PR",
+    "line": 30.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Alperen Sengun",
+    "team": "Rockets",
+    "stat": "PA",
+    "line": 28.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nikola Vu\u010devi\u0107",
+    "team": "Bulls",
+    "stat": "PRA",
+    "line": 28.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Amen Thompson",
+    "team": "Rockets",
+    "stat": "PR",
+    "line": 27.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Durant",
+    "team": "Rockets",
+    "stat": "PTS",
+    "line": 25.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Matas Buzelis",
+    "team": "Bulls",
+    "stat": "PRA",
+    "line": 25.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Amen Thompson",
+    "team": "Rockets",
+    "stat": "PA",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nikola Vu\u010devi\u0107",
+    "team": "Bulls",
+    "stat": "PR",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jabari Smith",
+    "team": "Rockets",
+    "stat": "PRA",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "team": "Bulls",
+    "stat": "PRA",
+    "line": 22.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Matas Buzelis",
+    "team": "Bulls",
+    "stat": "PR",
+    "line": 22.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Alperen Sengun",
+    "team": "Rockets",
+    "stat": "PTS",
+    "line": 22.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jabari Smith",
+    "team": "Rockets",
+    "stat": "PR",
+    "line": 22.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Tre Jones",
+    "team": "Bulls",
+    "stat": "PRA",
+    "line": 21.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Amen Thompson",
+    "team": "Rockets",
+    "stat": "PTS",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Matas Buzelis",
+    "team": "Bulls",
+    "stat": "PA",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nikola Vu\u010devi\u0107",
+    "team": "Bulls",
+    "stat": "PA",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "team": "Bulls",
+    "stat": "PA",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Huerter",
+    "team": "Bulls",
+    "stat": "PRA",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Smith",
+    "team": "Bulls",
+    "stat": "PRA",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "team": "Bulls",
+    "stat": "PR",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Reed Sheppard",
+    "team": "Rockets",
+    "stat": "PRA",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Tre Jones",
+    "team": "Bulls",
+    "stat": "PA",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Smith",
+    "team": "Bulls",
+    "stat": "PR",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jabari Smith",
+    "team": "Rockets",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Matas Buzelis",
+    "team": "Bulls",
+    "stat": "PTS",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Steven Adams",
+    "team": "Rockets",
+    "stat": "PRA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Huerter",
+    "team": "Bulls",
+    "stat": "PR",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Reed Sheppard",
+    "team": "Rockets",
+    "stat": "PA",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nikola Vu\u010devi\u0107",
+    "team": "Bulls",
+    "stat": "PTS",
+    "line": 15.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Alperen Sengun",
+    "team": "Rockets",
+    "stat": "RA",
+    "line": 15.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "team": "Bulls",
+    "stat": "PTS",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jabari Smith",
+    "team": "Rockets",
+    "stat": "PTS",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Kevin Huerter",
+    "team": "Bulls",
+    "stat": "PA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Reed Sheppard",
+    "team": "Rockets",
+    "stat": "PR",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Steven Adams",
+    "team": "Rockets",
+    "stat": "PR",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Tre Jones",
+    "team": "Bulls",
+    "stat": "PR",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Amen Thompson",
+    "team": "Rockets",
+    "stat": "RA",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Isaac Okoro",
+    "team": "Bulls",
+    "stat": "PRA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nikola Vu\u010devi\u0107",
+    "team": "Bulls",
+    "stat": "RA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Reed Sheppard",
+    "team": "Rockets",
+    "stat": "PTS",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Tre Jones",
+    "team": "Bulls",
+    "stat": "PTS",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Smith",
+    "team": "Bulls",
+    "stat": "PA",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Isaac Okoro",
+    "team": "Bulls",
+    "stat": "PR",
+    "line": 11.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Kevin Durant",
+    "team": "Rockets",
+    "stat": "RA",
+    "line": 10.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Smith",
+    "team": "Bulls",
+    "stat": "PTS",
+    "line": 10.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Tre Jones",
+    "team": "Bulls",
+    "stat": "RA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Isaac Okoro",
+    "team": "Bulls",
+    "stat": "PA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jabari Smith",
+    "team": "Rockets",
+    "stat": "RA",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nikola Vu\u010devi\u0107",
+    "team": "Bulls",
+    "stat": "REB",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Smith",
+    "team": "Bulls",
+    "stat": "RA",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Steven Adams",
+    "team": "Rockets",
+    "stat": "REB",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Nikola Vu\u010devi\u0107",
+    "team": "Bulls",
+    "stat": "REB",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Isaac Okoro",
+    "team": "Bulls",
+    "stat": "PTS",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Amen Thompson",
+    "team": "Rockets",
+    "stat": "REB",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Matas Buzelis",
+    "team": "Bulls",
+    "stat": "RA",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jabari Smith",
+    "team": "Rockets",
+    "stat": "REB",
+    "line": 7.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Tre Jones",
+    "team": "Bulls",
+    "stat": "AST",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Smith",
+    "team": "Bulls",
+    "stat": "REB",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "team": "Bulls",
+    "stat": "RA",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Alperen Sengun",
+    "team": "Rockets",
+    "stat": "AST",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Steven Adams",
+    "team": "Rockets",
+    "stat": "PTS",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Kevin Huerter",
+    "team": "Bulls",
+    "stat": "RA",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Steven Adams",
+    "team": "Rockets",
+    "stat": "PTS",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Matas Buzelis",
+    "team": "Bulls",
+    "stat": "REB",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Kevin Durant",
+    "team": "Rockets",
+    "stat": "REB",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Reed Sheppard",
+    "team": "Rockets",
+    "stat": "RA",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Matas Buzelis",
+    "team": "Bulls",
+    "stat": "REB",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Amen Thompson",
+    "team": "Rockets",
+    "stat": "AST",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "team": "Bulls",
+    "stat": "AST",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Kevin Huerter",
+    "team": "Bulls",
+    "stat": "REB",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Alperen Sengun",
+    "team": "Rockets",
+    "stat": "TO",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Kevin Huerter",
+    "team": "Bulls",
+    "stat": "AST",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Reed Sheppard",
+    "team": "Rockets",
+    "stat": "REB",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Ayo Dosunmu",
+    "team": "Bulls",
+    "stat": "TO",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Steven Adams",
+    "team": "Rockets",
+    "stat": "AST",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Tre Jones",
+    "team": "Bulls",
+    "stat": "TO",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Isaac Okoro",
+    "team": "Bulls",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Matas Buzelis",
+    "team": "Bulls",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Steven Adams",
+    "team": "Rockets",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jamal Murray",
+    "team": "Nuggets",
+    "stat": "PRA",
+    "line": 41.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jamal Murray",
+    "team": "Nuggets",
+    "stat": "PA",
+    "line": 36.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Zion Williamson",
+    "team": "Pelicans",
+    "stat": "PRA",
+    "line": 34.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Aaron Gordon",
+    "team": "Nuggets",
+    "stat": "PRA",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jamal Murray",
+    "team": "Nuggets",
+    "stat": "PR",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Trey Murphy",
+    "team": "Pelicans",
+    "stat": "PRA",
+    "line": 30.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Peyton Watson",
+    "team": "Nuggets",
+    "stat": "PRA",
+    "line": 30.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Zion Williamson",
+    "team": "Pelicans",
+    "stat": "PR",
+    "line": 30.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Aaron Gordon",
+    "team": "Nuggets",
+    "stat": "PR",
+    "line": 27.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Trey Murphy",
+    "team": "Pelicans",
+    "stat": "PR",
+    "line": 27.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Zion Williamson",
+    "team": "Pelicans",
+    "stat": "PA",
+    "line": 27.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Peyton Watson",
+    "team": "Nuggets",
+    "stat": "PR",
+    "line": 26.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jamal Murray",
+    "team": "Nuggets",
+    "stat": "PTS",
+    "line": 26.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Derik Queen",
+    "team": "Pelicans",
+    "stat": "PRA",
+    "line": 25.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Trey Murphy",
+    "team": "Pelicans",
+    "stat": "PA",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Aaron Gordon",
+    "team": "Nuggets",
+    "stat": "PA",
+    "line": 24.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Peyton Watson",
+    "team": "Nuggets",
+    "stat": "PA",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Zion Williamson",
+    "team": "Pelicans",
+    "stat": "PTS",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Aaron Gordon",
+    "team": "Nuggets",
+    "stat": "PTS",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Derik Queen",
+    "team": "Pelicans",
+    "stat": "PR",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Pickett",
+    "team": "Nuggets",
+    "stat": "PRA",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jeremiah Fears",
+    "team": "Pelicans",
+    "stat": "PRA",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Peyton Watson",
+    "team": "Nuggets",
+    "stat": "PTS",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Trey Murphy",
+    "team": "Pelicans",
+    "stat": "PTS",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Derik Queen",
+    "team": "Pelicans",
+    "stat": "PA",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jordan Poole",
+    "team": "Pelicans",
+    "stat": "PRA",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jeremiah Fears",
+    "team": "Pelicans",
+    "stat": "PR",
+    "line": 17.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Pickett",
+    "team": "Nuggets",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jeremiah Fears",
+    "team": "Pelicans",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jordan Poole",
+    "team": "Pelicans",
+    "stat": "PA",
+    "line": 16.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Pickett",
+    "team": "Nuggets",
+    "stat": "PR",
+    "line": 15.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jordan Poole",
+    "team": "Pelicans",
+    "stat": "PR",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Spencer Jones",
+    "team": "Nuggets",
+    "stat": "PRA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jamal Murray",
+    "team": "Nuggets",
+    "stat": "RA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Zeke Nnaji",
+    "team": "Nuggets",
+    "stat": "PRA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Spencer Jones",
+    "team": "Nuggets",
+    "stat": "PR",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Zeke Nnaji",
+    "team": "Nuggets",
+    "stat": "PR",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Derik Queen",
+    "team": "Pelicans",
+    "stat": "RA",
+    "line": 13.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Derik Queen",
+    "team": "Pelicans",
+    "stat": "PTS",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jeremiah Fears",
+    "team": "Pelicans",
+    "stat": "PTS",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jordan Poole",
+    "team": "Pelicans",
+    "stat": "PTS",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Bryce McGowens",
+    "team": "Pelicans",
+    "stat": "PRA",
+    "line": 12.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Aaron Gordon",
+    "team": "Nuggets",
+    "stat": "RA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Pickett",
+    "team": "Nuggets",
+    "stat": "PTS",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Zion Williamson",
+    "team": "Pelicans",
+    "stat": "RA",
+    "line": 10.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Spencer Jones",
+    "team": "Nuggets",
+    "stat": "PA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Peyton Watson",
+    "team": "Nuggets",
+    "stat": "RA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Trey Murphy",
+    "team": "Pelicans",
+    "stat": "RA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Zeke Nnaji",
+    "team": "Nuggets",
+    "stat": "PA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Pickett",
+    "team": "Nuggets",
+    "stat": "RA",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jamal Murray",
+    "team": "Nuggets",
+    "stat": "AST",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Zeke Nnaji",
+    "team": "Nuggets",
+    "stat": "PTS",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Derik Queen",
+    "team": "Pelicans",
+    "stat": "REB",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Spencer Jones",
+    "team": "Nuggets",
+    "stat": "PTS",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Bryce McGowens",
+    "team": "Pelicans",
+    "stat": "PTS",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Aaron Gordon",
+    "team": "Nuggets",
+    "stat": "REB",
+    "line": 7.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Zion Williamson",
+    "team": "Pelicans",
+    "stat": "REB",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Peyton Watson",
+    "team": "Nuggets",
+    "stat": "REB",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Trey Murphy",
+    "team": "Pelicans",
+    "stat": "REB",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Pickett",
+    "team": "Nuggets",
+    "stat": "AST",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Spencer Jones",
+    "team": "Nuggets",
+    "stat": "REB",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Zeke Nnaji",
+    "team": "Nuggets",
+    "stat": "REB",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Derik Queen",
+    "team": "Pelicans",
+    "stat": "AST",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Pickett",
+    "team": "Nuggets",
+    "stat": "REB",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Zion Williamson",
+    "team": "Pelicans",
+    "stat": "AST",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Trey Murphy",
+    "team": "Pelicans",
+    "stat": "AST",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jeremiah Fears",
+    "team": "Pelicans",
+    "stat": "REB",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Bryce McGowens",
+    "team": "Pelicans",
+    "stat": "REB",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Derik Queen",
+    "team": "Pelicans",
+    "stat": "TO",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jamal Murray",
+    "team": "Nuggets",
+    "stat": "TO",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Bryce McGowens",
+    "team": "Pelicans",
+    "stat": "AST",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Bryce McGowens",
+    "team": "Pelicans",
+    "stat": "TO",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Luka Don\u010di\u0107",
+    "team": "Lakers",
+    "stat": "PRA",
+    "line": 52.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Luka Don\u010di\u0107",
+    "team": "Lakers",
+    "stat": "PA",
+    "line": 44.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Luka Don\u010di\u0107",
+    "team": "Lakers",
+    "stat": "PR",
+    "line": 42.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Johnson",
+    "team": "Hawks",
+    "stat": "PRA",
+    "line": 41.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "LeBron James",
+    "team": "Lakers",
+    "stat": "PRA",
+    "line": 37.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "LeBron James",
+    "team": "Lakers",
+    "stat": "PRA",
+    "line": 37.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Luka Don\u010di\u0107",
+    "team": "Lakers",
+    "stat": "PTS",
+    "line": 34.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Johnson",
+    "team": "Hawks",
+    "stat": "PR",
+    "line": 33.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Johnson",
+    "team": "Hawks",
+    "stat": "PA",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "LeBron James",
+    "team": "Lakers",
+    "stat": "PA",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "LeBron James",
+    "team": "Lakers",
+    "stat": "PR",
+    "line": 30.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Onyeka Okongwu",
+    "team": "Hawks",
+    "stat": "PRA",
+    "line": 28.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nickeil Alexander-Walker",
+    "team": "Hawks",
+    "stat": "PRA",
+    "line": 28.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Dyson Daniels",
+    "team": "Hawks",
+    "stat": "PRA",
+    "line": 26.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Deandre Ayton",
+    "team": "Lakers",
+    "stat": "PRA",
+    "line": 26.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Deandre Ayton",
+    "team": "Lakers",
+    "stat": "PR",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nickeil Alexander-Walker",
+    "team": "Hawks",
+    "stat": "PA",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nickeil Alexander-Walker",
+    "team": "Hawks",
+    "stat": "PR",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Onyeka Okongwu",
+    "team": "Hawks",
+    "stat": "PR",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Johnson",
+    "team": "Hawks",
+    "stat": "PTS",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "LeBron James",
+    "team": "Lakers",
+    "stat": "PTS",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "CJ McCollum",
+    "team": "Hawks",
+    "stat": "PRA",
+    "line": 21.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jake LaRavia",
+    "team": "Lakers",
+    "stat": "PRA",
+    "line": 21.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nickeil Alexander-Walker",
+    "team": "Hawks",
+    "stat": "PTS",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Onyeka Okongwu",
+    "team": "Hawks",
+    "stat": "PA",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Dyson Daniels",
+    "team": "Hawks",
+    "stat": "PA",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Dyson Daniels",
+    "team": "Hawks",
+    "stat": "PR",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Marcus Smart",
+    "team": "Lakers",
+    "stat": "PRA",
+    "line": 19.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "CJ McCollum",
+    "team": "Hawks",
+    "stat": "PA",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "CJ McCollum",
+    "team": "Hawks",
+    "stat": "PR",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jake LaRavia",
+    "team": "Lakers",
+    "stat": "PR",
+    "line": 18.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Johnson",
+    "team": "Hawks",
+    "stat": "RA",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Luka Don\u010di\u0107",
+    "team": "Lakers",
+    "stat": "RA",
+    "line": 17.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Onyeka Okongwu",
+    "team": "Hawks",
+    "stat": "PTS",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Deandre Ayton",
+    "team": "Lakers",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jake LaRavia",
+    "team": "Lakers",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Marcus Smart",
+    "team": "Lakers",
+    "stat": "PA",
+    "line": 16.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jarred Vanderbilt",
+    "team": "Lakers",
+    "stat": "PRA",
+    "line": 16.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "CJ McCollum",
+    "team": "Hawks",
+    "stat": "PTS",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Deandre Ayton",
+    "team": "Lakers",
+    "stat": "PTS",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Marcus Smart",
+    "team": "Lakers",
+    "stat": "PR",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Rui Hachimura",
+    "team": "Lakers",
+    "stat": "PRA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jarred Vanderbilt",
+    "team": "Lakers",
+    "stat": "PR",
+    "line": 14.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jake LaRavia",
+    "team": "Lakers",
+    "stat": "PTS",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Rui Hachimura",
+    "team": "Lakers",
+    "stat": "PR",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "LeBron James",
+    "team": "Lakers",
+    "stat": "RA",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "V\u00edt Krej\u010d\u00ed",
+    "team": "Hawks",
+    "stat": "PRA",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Dyson Daniels",
+    "team": "Hawks",
+    "stat": "PTS",
+    "line": 13.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "V\u00edt Krej\u010d\u00ed",
+    "team": "Hawks",
+    "stat": "PR",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Marcus Smart",
+    "team": "Lakers",
+    "stat": "PTS",
+    "line": 12.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Onyeka Okongwu",
+    "team": "Hawks",
+    "stat": "RA",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Deandre Ayton",
+    "team": "Lakers",
+    "stat": "RA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "V\u00edt Krej\u010d\u00ed",
+    "team": "Hawks",
+    "stat": "PA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jalen Johnson",
+    "team": "Hawks",
+    "stat": "REB",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Rui Hachimura",
+    "team": "Lakers",
+    "stat": "PTS",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "V\u00edt Krej\u010d\u00ed",
+    "team": "Hawks",
+    "stat": "PTS",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Deandre Ayton",
+    "team": "Lakers",
+    "stat": "REB",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jarred Vanderbilt",
+    "team": "Lakers",
+    "stat": "RA",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Luka Don\u010di\u0107",
+    "team": "Lakers",
+    "stat": "AST",
+    "line": 9.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Johnson",
+    "team": "Hawks",
+    "stat": "AST",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Onyeka Okongwu",
+    "team": "Hawks",
+    "stat": "REB",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Luka Don\u010di\u0107",
+    "team": "Lakers",
+    "stat": "REB",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jake LaRavia",
+    "team": "Lakers",
+    "stat": "RA",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Marcus Smart",
+    "team": "Lakers",
+    "stat": "RA",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Nickeil Alexander-Walker",
+    "team": "Hawks",
+    "stat": "RA",
+    "line": 7.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jarred Vanderbilt",
+    "team": "Lakers",
+    "stat": "REB",
+    "line": 7.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jarred Vanderbilt",
+    "team": "Lakers",
+    "stat": "PTS",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Dyson Daniels",
+    "team": "Hawks",
+    "stat": "AST",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Dyson Daniels",
+    "team": "Hawks",
+    "stat": "REB",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jake LaRavia",
+    "team": "Lakers",
+    "stat": "REB",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Marcus Smart",
+    "team": "Lakers",
+    "stat": "AST",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Nickeil Alexander-Walker",
+    "team": "Hawks",
+    "stat": "REB",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Marcus Smart",
+    "team": "Lakers",
+    "stat": "REB",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jalen Johnson",
+    "team": "Hawks",
+    "stat": "TO",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Luka Don\u010di\u0107",
+    "team": "Lakers",
+    "stat": "STL",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jake LaRavia",
+    "team": "Lakers",
+    "stat": "TO",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "CJ McCollum",
+    "team": "Hawks",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Stephen Curry",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 36.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shaedon Sharpe",
+    "team": "Trail Blazers",
+    "stat": "PRA",
+    "line": 33.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Stephen Curry",
+    "team": "Warriors",
+    "stat": "PA",
+    "line": 32.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Stephen Curry",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 31.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shaedon Sharpe",
+    "team": "Trail Blazers",
+    "stat": "PR",
+    "line": 30.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shaedon Sharpe",
+    "team": "Trail Blazers",
+    "stat": "PA",
+    "line": 29.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donovan Clingan",
+    "team": "Trail Blazers",
+    "stat": "PRA",
+    "line": 27.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Stephen Curry",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 27.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 26.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "Warriors",
+    "stat": "PA",
+    "line": 25.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Shaedon Sharpe",
+    "team": "Trail Blazers",
+    "stat": "PTS",
+    "line": 25.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Donovan Clingan",
+    "team": "Trail Blazers",
+    "stat": "PR",
+    "line": 24.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Caleb Love",
+    "team": "Trail Blazers",
+    "stat": "PRA",
+    "line": 23.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Toumani Camara",
+    "team": "Trail Blazers",
+    "stat": "PRA",
+    "line": 23.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Draymond Green",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 21.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Caleb Love",
+    "team": "Trail Blazers",
+    "stat": "PR",
+    "line": 21.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Caleb Love",
+    "team": "Trail Blazers",
+    "stat": "PA",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 20.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jrue Holiday",
+    "team": "Trail Blazers",
+    "stat": "PRA",
+    "line": 20.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Toumani Camara",
+    "team": "Trail Blazers",
+    "stat": "PR",
+    "line": 20.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Toumani Camara",
+    "team": "Trail Blazers",
+    "stat": "PA",
+    "line": 17.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Anthony Melton",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jrue Holiday",
+    "team": "Trail Blazers",
+    "stat": "PA",
+    "line": 16.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Caleb Love",
+    "team": "Trail Blazers",
+    "stat": "PTS",
+    "line": 16.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Draymond Green",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Brandin Podziemski",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 15.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Anthony Melton",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donovan Clingan",
+    "team": "Trail Blazers",
+    "stat": "PA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donovan Clingan",
+    "team": "Trail Blazers",
+    "stat": "RA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jrue Holiday",
+    "team": "Trail Blazers",
+    "stat": "PR",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Toumani Camara",
+    "team": "Trail Blazers",
+    "stat": "PTS",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Draymond Green",
+    "team": "Warriors",
+    "stat": "PA",
+    "line": 14.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Anthony Melton",
+    "team": "Warriors",
+    "stat": "PA",
+    "line": 13.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Robert Williams",
+    "team": "Trail Blazers",
+    "stat": "PRA",
+    "line": 13.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Brandin Podziemski",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Donovan Clingan",
+    "team": "Trail Blazers",
+    "stat": "REB",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Quinten Post",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Moses Moody",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Al Horford",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Gary Payton",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 12.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Draymond Green",
+    "team": "Warriors",
+    "stat": "RA",
+    "line": 12.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Moses Moody",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Robert Williams",
+    "team": "Trail Blazers",
+    "stat": "PR",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Brandin Podziemski",
+    "team": "Warriors",
+    "stat": "PA",
+    "line": 11.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "Warriors",
+    "stat": "RA",
+    "line": 11.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "De'Anthony Melton",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 11.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Al Horford",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Jrue Holiday",
+    "team": "Trail Blazers",
+    "stat": "PTS",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Quinten Post",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Sidy Cissoko",
+    "team": "Trail Blazers",
+    "stat": "PA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Gary Payton",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Rayan Rupert",
+    "team": "Trail Blazers",
+    "stat": "PRA",
+    "line": 10.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Moses Moody",
+    "team": "Warriors",
+    "stat": "PA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Quinten Post",
+    "team": "Warriors",
+    "stat": "PA",
+    "line": 9.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Brandin Podziemski",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Draymond Green",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jrue Holiday",
+    "team": "Trail Blazers",
+    "stat": "RA",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Sidy Cissoko",
+    "team": "Trail Blazers",
+    "stat": "PTS",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Toumani Camara",
+    "team": "Trail Blazers",
+    "stat": "RA",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Stephen Curry",
+    "team": "Warriors",
+    "stat": "RA",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Rayan Rupert",
+    "team": "Trail Blazers",
+    "stat": "PR",
+    "line": 8.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Moses Moody",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Shaedon Sharpe",
+    "team": "Trail Blazers",
+    "stat": "RA",
+    "line": 8.0,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Quinten Post",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Al Horford",
+    "team": "Warriors",
+    "stat": "PA",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Gui Santos",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 7.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Brandin Podziemski",
+    "team": "Warriors",
+    "stat": "RA",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Al Horford",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Gary Payton",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Will Richard",
+    "team": "Warriors",
+    "stat": "PRA",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Robert Williams",
+    "team": "Trail Blazers",
+    "stat": "PA",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Gui Santos",
+    "team": "Warriors",
+    "stat": "PR",
+    "line": 6.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Draymond Green",
+    "team": "Warriors",
+    "stat": "REB",
+    "line": 6.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Gary Payton",
+    "team": "Warriors",
+    "stat": "RA",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Robert Williams",
+    "team": "Trail Blazers",
+    "stat": "PTS",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Robert Williams",
+    "team": "Trail Blazers",
+    "stat": "REB",
+    "line": 5.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jrue Holiday",
+    "team": "Trail Blazers",
+    "stat": "AST",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "Warriors",
+    "stat": "AST",
+    "line": 5.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Shaedon Sharpe",
+    "team": "Trail Blazers",
+    "stat": "REB",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Stephen Curry",
+    "team": "Warriors",
+    "stat": "AST",
+    "line": 4.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Al Horford",
+    "team": "Warriors",
+    "stat": "REB",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Stephen Curry",
+    "team": "Warriors",
+    "stat": "REB",
+    "line": 4.0,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Gary Payton",
+    "team": "Warriors",
+    "stat": "REB",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Brandin Podziemski",
+    "team": "Warriors",
+    "stat": "REB",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Will Richard",
+    "team": "Warriors",
+    "stat": "PTS",
+    "line": 3.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Toumani Camara",
+    "team": "Trail Blazers",
+    "stat": "TO",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Will Richard",
+    "team": "Warriors",
+    "stat": "RA",
+    "line": 2.5,
+    "source": "PrizePicks",
+    "prop_type": "combo"
+  },
+  {
+    "player": "Al Horford",
+    "team": "Warriors",
+    "stat": "AST",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "De'Anthony Melton",
+    "team": "Warriors",
+    "stat": "STL",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Donovan Clingan",
+    "team": "Trail Blazers",
+    "stat": "TO",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "Warriors",
+    "stat": "STL",
+    "line": 1.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Al Horford",
+    "team": "Warriors",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Donovan Clingan",
+    "team": "Trail Blazers",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Gary Payton",
+    "team": "Warriors",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Moses Moody",
+    "team": "Warriors",
+    "stat": "TO",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Robert Williams",
+    "team": "Trail Blazers",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  },
+  {
+    "player": "Rayan Rupert",
+    "team": "Trail Blazers",
+    "stat": "STL",
+    "line": 0.5,
+    "source": "PrizePicks",
+    "prop_type": "standard"
+  }
+]
