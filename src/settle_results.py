@@ -33,6 +33,7 @@ def safe_get(url, headers=None, params=None, tries=6):
             time.sleep(wait)
     raise RuntimeError(f"API failed too many times for {url}")
 
+
 def normalize_name(s: str) -> str:
     if s is None:
         return ""
@@ -40,6 +41,7 @@ def normalize_name(s: str) -> str:
     for ch in [".", ",", "'", '"', "-", "’"]:
         s = s.replace(ch, "")
     return " ".join(s.split())
+
 
 # -----------------------
 # DATA FETCHING
@@ -62,9 +64,15 @@ def get_games_for_date(date_str: str):
         page += 1
     return games
 
-def get_stats_for_game(game_id: int):
+
+def get_stats_for_game(game_id: int) -> pd.DataFrame:
+    """
+    Pulls per-player boxscore stats for a single game.
+    IMPORTANT: BallDontLie v1 uses `turnover` (singular), not `turnovers`.
+    """
     rows = []
     cursor = 0
+
     while True:
         data = safe_get(
             BASE_URL + "stats",
@@ -79,15 +87,21 @@ def get_stats_for_game(game_id: int):
         for st in items:
             player = st.get("player") or {}
             team = st.get("team") or {}
+
+            # ✅ FIX: use turnover (singular), fallback to turnovers just in case
+            to_val = st.get("turnover")
+            if to_val is None:
+                to_val = st.get("turnovers")
+
             rows.append({
                 "player_name": f"{player.get('first_name','')} {player.get('last_name','')}".strip(),
                 "team": team.get("abbreviation"),
-                "pts": st.get("pts", 0),
-                "reb": st.get("reb", 0),
-                "ast": st.get("ast", 0),
-                "stl": st.get("stl", 0),
-                "blk": st.get("blk", 0),
-                "to": st.get("turnovers", 0),
+                "pts": st.get("pts"),
+                "reb": st.get("reb"),
+                "ast": st.get("ast"),
+                "stl": st.get("stl"),
+                "blk": st.get("blk"),
+                "to": to_val,
             })
 
         meta = data.get("meta") or {}
@@ -96,7 +110,17 @@ def get_stats_for_game(game_id: int):
         cursor = meta["next_cursor"]
         time.sleep(0.15)
 
-    return pd.DataFrame(rows)
+    if not rows:
+        return pd.DataFrame()
+
+    df = pd.DataFrame(rows)
+
+    # Fill missing with 0 before aggregation
+    for c in ["pts", "reb", "ast", "stl", "blk", "to"]:
+        df[c] = pd.to_numeric(df[c], errors="coerce").fillna(0)
+
+    return df
+
 
 def build_actuals_for_date(date_str: str) -> pd.DataFrame:
     games = get_games_for_date(date_str)
@@ -116,10 +140,11 @@ def build_actuals_for_date(date_str: str) -> pd.DataFrame:
     df = pd.concat(all_stats, ignore_index=True)
 
     df["player_key"] = df["player_name"].apply(normalize_name)
+
+    # Aggregate (some endpoints can return multiple rows per player)
     df = (
-        df.groupby(["player_key", "player_name"], as_index=False)
-          [["pts","reb","ast","stl","blk","to"]]
-        .sum()
+        df.groupby(["player_key", "player_name"], as_index=False)[["pts","reb","ast","stl","blk","to"]]
+          .sum()
     )
 
     # Combos
@@ -138,6 +163,7 @@ def build_actuals_for_date(date_str: str) -> pd.DataFrame:
     )
 
     return df
+
 
 # -----------------------
 # GRADING
@@ -164,6 +190,7 @@ def compute_actual_value(row, actuals_row):
         return np.nan
     return float(actuals_row[col])
 
+
 def grade_pick(direction: str, actual: float, line: float):
     if pd.isna(actual) or pd.isna(line):
         return "NO_DATA"
@@ -171,12 +198,15 @@ def grade_pick(direction: str, actual: float, line: float):
     if abs(actual - line) < 1e-9:
         return "PUSH"
 
+    direction = str(direction).upper().strip()
+
     if direction == "OVER":
         return "WIN" if actual > line else "LOSS"
     if direction == "UNDER":
         return "WIN" if actual < line else "LOSS"
 
     return "UNKNOWN"
+
 
 # -----------------------
 # MAIN
@@ -201,19 +231,15 @@ def main(target_date: str = None):
 
     settled = board.merge(actuals, on="player_key", how="left")
 
-    settled["actual_value"] = settled.apply(
-        lambda r: compute_actual_value(r, r),
-        axis=1
-    )
-
+    settled["actual_value"] = settled.apply(lambda r: compute_actual_value(r, r), axis=1)
     settled["result"] = settled.apply(
         lambda r: grade_pick(r["direction"], r["actual_value"], r["book_line"]),
         axis=1
     )
 
     keep_cols = [
-        "player","prop","book_line","direction",
-        "model_prediction","edge","actual_value","result"
+        "player", "prop", "book_line", "direction",
+        "model_prediction", "edge", "actual_value", "result"
     ]
 
     settled_out = settled.loc[:, keep_cols].copy()
@@ -223,6 +249,13 @@ def main(target_date: str = None):
 
     print(f"\n✅ Settled results saved -> {out_path}")
     print(settled_out["result"].value_counts(dropna=False).to_string())
+
+    # Optional quick sanity check for TO rows
+    to_rows = settled_out[settled_out["prop"].astype(str).str.upper().str.strip() == "TO"]
+    if not to_rows.empty:
+        zeros = (to_rows["actual_value"] == 0).sum()
+        print(f"\n🔎 TO sanity check: {len(to_rows)} TO rows, {zeros} have actual_value == 0")
+
 
 if __name__ == "__main__":
     main()
